@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Rahul! 
 
+![banner image](https://raw.githubusercontent.com/ice-rahul/ice-rahul/main/assets/image/bannerImage.gif)
+
 Something about me:
 
 - ✨ &nbsp;[My Webiste](https://ice-rahul.github.io) ✨ 
