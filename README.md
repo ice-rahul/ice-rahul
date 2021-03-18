@@ -21,4 +21,11 @@ Something about me:
 - 😄 &nbsp;Pronouns: He/His
 
 - ⚡ &nbsp;Fun fact: I am always open to learn new technologies and contribute.
+- 
+<a href="https://github-readme-stats.vercel.app/api?username=ice-rahul&show_icons=true&count_private=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ice-rahul&show_icons=true&count_private=true&theme=radical" width="50%" />
+</a>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-rahul&count_private=true&theme=radical&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice-rahul&count_private=true&theme=radical&layout=compact" width="42%" />
+</a>
