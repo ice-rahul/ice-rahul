@@ -4,7 +4,7 @@
 
 Something about me:
 
-- ✨ &nbsp;[My Webiste](https://ice-rahul.github.io) ✨ 
+- ✨ &nbsp;[My Website](https://ice-rahul.github.io) ✨ 
 
 - 🔭 &nbsp;I’m currently working on ReactJS, PHP and Android
 
